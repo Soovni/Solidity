@@ -1,7 +1,7 @@
-Sogang University 2023 winter semester 
-BLockChain and Applications 
+### BlockChain and Applications 
+#### Sogang University 2023 winter semester 
 
-# practice 
+### practice 
 
-# project
--Blind Auction 
+### project
+- Blind Auction 
